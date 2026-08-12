@@ -1,0 +1,13 @@
+{
+  "id": "instant_text_speed",
+  "name": "Instant Text Speed",
+  "version": "1.0.0",
+  "entry": "main.lua",
+  "api": 2,
+  "games": ["all"],
+  "category": "UI",
+  "description": "Adds a INSTANT TEXT (ON/OFF) row to the Options menu. Supports English and Spanish, configurable from the Mod Manager.",
+  "profile": "content",
+  "permissions": ["engine_internals"]
+  "github": "DaniKH1/Gen1-Recomp-Mods"
+}
