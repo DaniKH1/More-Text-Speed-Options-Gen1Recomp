@@ -5,6 +5,7 @@
   "entry": "main.lua",
   "api": 2,
   "category": "UI",
+  "games": ["all"],
   "description": "Adds FASTEST and INSTANT to the TEXT SPEED row from the OPTION menu.",
   "github": "DaniKH1/Gen-2-Save-Screen-Gen1Recomp",
   "profile": "content",
