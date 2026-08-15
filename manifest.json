@@ -1,0 +1,12 @@
+{
+  "id": "instant_text_speed",
+  "name": "More Text Speed Options",
+  "version": "1.0.1",
+  "entry": "main.lua",
+  "api": 2,
+  "category": "UI",
+  "description": "Adds FASTEST and INSTANT to the TEXT SPEED row from the OPTION menu.",
+  "github": "DaniKH1/Gen-2-Save-Screen-Gen1Recomp",
+  "profile": "content",
+  "permissions": ["engine_internals"]
+}
